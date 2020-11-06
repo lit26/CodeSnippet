@@ -1,0 +1,22 @@
+.page{
+    display:flex;
+}
+.page__left{
+    flex:0.2;
+}
+.page__right{
+    flex:0.8;
+    margin: 50px;
+}
+.page__right h1{
+    font-size: 2rem;
+}
+.page__right h2{
+    font-size: 1.5rem;
+}
+.page__right h3{
+    font-size: 1rem;
+}
+.page__right pre{
+    font-size: 14px;
+}

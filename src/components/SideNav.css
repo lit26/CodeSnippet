@@ -1,0 +1,10 @@
+.sideNav__header{
+    cursor:pointer;
+}
+.sideNav__item{
+    margin-bottom: 2px;
+}
+.sideNav__item:hover{
+    text-decoration:underline;
+    cursor:pointer;
+}

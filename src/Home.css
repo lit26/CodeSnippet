@@ -1,0 +1,17 @@
+.home{
+    display:flex;
+    justify-content: space-between;
+    margin: 35vh 25%;
+}
+.home__item{
+    padding: 10%;
+    font-size: 30px;
+    background-color: rgb(88, 96, 105);
+    border-radius: 15px;
+    color:white;
+}
+.home__item:hover{
+    cursor: pointer;
+    background-color: rgb(88, 96, 121);
+    color:white;
+}
