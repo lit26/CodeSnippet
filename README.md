@@ -4,7 +4,7 @@ Code Snippet will help us code faster. This react app help me remind the Python 
 
 
 # Website
-Hosting: https://codesnippet-b7469.web.app/
+Hosting: https://codesnippet-ed764.web.app/
 
 This is a markdown display website for the code snippet.
 
