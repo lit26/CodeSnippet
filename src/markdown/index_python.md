@@ -5,6 +5,8 @@
 - Plot
     - Matplotlib
     - Seaborn
+- Operating System
+- Datetime
 
 ## Machine Learning / Data Science
 - Exploratory Data Analysis

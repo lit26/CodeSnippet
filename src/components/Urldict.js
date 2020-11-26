@@ -7,6 +7,9 @@ import deployReactOnGithub from '../markdown/react/deployReactOnGithub.md'
 
 import webscrap from '../markdown/python/general/webScrap.md'
 import plot from '../markdown/python/general/plot.md'
+import os from '../markdown/python/general/os.md'
+import time from  '../markdown/python/general/time.md'
+
 import eda from '../markdown/python/mlds/eda.md'
 import mlmodel from '../markdown/python/mlds/model.md'
 
@@ -37,8 +40,9 @@ const Urldict = {
     "Python": {
         "General":{
             "Web Scrap": webscrap,
-            "Plot": plot
-
+            "Plot": plot,
+            "OS": os,
+            "Datetime": time
         },
         "MLDS":{
             "EDA":eda,
